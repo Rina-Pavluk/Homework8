@@ -1,0 +1,15 @@
+C:\Work_on_git\HW_8\Test1\bin\Debug\net6.0\Test1.exe
+C:\Work_on_git\HW_8\Test1\bin\Debug\net6.0\Test1.deps.json
+C:\Work_on_git\HW_8\Test1\bin\Debug\net6.0\Test1.runtimeconfig.json
+C:\Work_on_git\HW_8\Test1\bin\Debug\net6.0\Test1.dll
+C:\Work_on_git\HW_8\Test1\bin\Debug\net6.0\Test1.pdb
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.csproj.AssemblyReference.cache
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.AssemblyInfoInputs.cache
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.AssemblyInfo.cs
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.csproj.CoreCompileInputs.cache
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.dll
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\refint\Test1.dll
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.pdb
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\Test1.genruntimeconfig.cache
+C:\Work_on_git\HW_8\Test1\obj\Debug\net6.0\ref\Test1.dll
